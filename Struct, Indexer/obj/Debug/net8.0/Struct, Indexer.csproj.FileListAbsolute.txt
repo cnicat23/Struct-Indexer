@@ -1,0 +1,18 @@
+C:\Users\Acer\OneDrive\İş masası\Back-end\Struct, Indexer\Struct, Indexer\bin\Debug\net8.0\Struct, Indexer.exe
+C:\Users\Acer\OneDrive\İş masası\Back-end\Struct, Indexer\Struct, Indexer\bin\Debug\net8.0\Struct, Indexer.deps.json
+C:\Users\Acer\OneDrive\İş masası\Back-end\Struct, Indexer\Struct, Indexer\bin\Debug\net8.0\Struct, Indexer.runtimeconfig.json
+C:\Users\Acer\OneDrive\İş masası\Back-end\Struct, Indexer\Struct, Indexer\bin\Debug\net8.0\Struct, Indexer.dll
+C:\Users\Acer\OneDrive\İş masası\Back-end\Struct, Indexer\Struct, Indexer\bin\Debug\net8.0\Struct, Indexer.pdb
+C:\Users\Acer\OneDrive\İş masası\Back-end\Struct, Indexer\Struct, Indexer\bin\Debug\net8.0\Core.dll
+C:\Users\Acer\OneDrive\İş masası\Back-end\Struct, Indexer\Struct, Indexer\bin\Debug\net8.0\Core.pdb
+C:\Users\Acer\OneDrive\İş masası\Back-end\Struct, Indexer\Struct, Indexer\obj\Debug\net8.0\Struct, Indexer.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\İş masası\Back-end\Struct, Indexer\Struct, Indexer\obj\Debug\net8.0\Struct, Indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\İş masası\Back-end\Struct, Indexer\Struct, Indexer\obj\Debug\net8.0\Struct, Indexer.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\İş masası\Back-end\Struct, Indexer\Struct, Indexer\obj\Debug\net8.0\Struct, Indexer.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\İş masası\Back-end\Struct, Indexer\Struct, Indexer\obj\Debug\net8.0\Struct, Indexer.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\İş masası\Back-end\Struct, Indexer\Struct, Indexer\obj\Debug\net8.0\Struct, .91269616.Up2Date
+C:\Users\Acer\OneDrive\İş masası\Back-end\Struct, Indexer\Struct, Indexer\obj\Debug\net8.0\Struct, Indexer.dll
+C:\Users\Acer\OneDrive\İş masası\Back-end\Struct, Indexer\Struct, Indexer\obj\Debug\net8.0\refint\Struct, Indexer.dll
+C:\Users\Acer\OneDrive\İş masası\Back-end\Struct, Indexer\Struct, Indexer\obj\Debug\net8.0\Struct, Indexer.pdb
+C:\Users\Acer\OneDrive\İş masası\Back-end\Struct, Indexer\Struct, Indexer\obj\Debug\net8.0\Struct, Indexer.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\İş masası\Back-end\Struct, Indexer\Struct, Indexer\obj\Debug\net8.0\ref\Struct, Indexer.dll
